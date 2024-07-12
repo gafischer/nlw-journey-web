@@ -3,7 +3,7 @@
 
 # Sobre o projeto
 
-Esta interface foi desenvolvida durante a trilha  de ReactJS durante o evento NLW Journey da empresa Rocketseat.
+Esta interface foi desenvolvida na trilha de ReactJS durante o evento NLW Journey da empresa Rocketseat.
 
 A interface consiste na aplicação dos conceitos de Propriedades, Estados e Componentes, tipagem com Typescript, tooling com Vite, interface responsiva com TailwindCSS, consumo de API, picker de calendário.
 
